@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("6.5.5.1:1", "", "BibliographicSearch", "EARoot/EA6/EA5/EA5/EA1/EA658.htm", "175.png", "165", "0", "", "Logical diagram0","{937339D3-58A8-4899-B551-647BB8B3DE95}");
+tocTab[tocTab.length] = new Array("6.5.5.1:2", "", "BibliographicSearchService", "EARoot/EA6/EA5/EA5/EA1/EA660.htm", "5.png", "771", "0", "", "Class0","{06FB0D14-8A36-4eb6-A2EC-B847C1D38355}");
+tocTab[tocTab.length] = new Array("6.5.5.1:3", "", "«interface» IBibliographicSearchService", "EARoot/EA6/EA5/EA5/EA1/EA661.htm", "8.png", "744", "0", "", "Interface0","{C8C35293-DA5A-4b3c-A85F-F46185188604}");

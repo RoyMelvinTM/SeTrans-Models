@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("6.5:1", "", "Busqueda y Reserva Online", "EARoot/EA6/EA5/EA634.htm", "175.png", "16", "0", "", "Logical diagram0","{33649472-62CA-4052-85C1-9A6A520C6912}");
+tocTab[tocTab.length] = new Array("6.5.1", "1", "DDL", "EARoot/EA6/EA5/EA636.htm", "4.png", "", "", "{E814318B-9D96-4dff-8AA6-3FC7EC99FF7C}", "Package");
+tocTab[tocTab.length] = new Array("6.5.2", "1", "Entities", "EARoot/EA6/EA5/EA637.htm", "4.png", "", "", "{6F53F41B-5DFA-4c88-BAB0-7AB27226E3CF}", "Package");
+tocTab[tocTab.length] = new Array("6.5.3", "1", "Data Access Layer", "EARoot/EA6/EA5/EA638.htm", "4.png", "", "", "{FFF2C8AB-7531-4ae3-909F-C2872BD54CBC}", "Package");
+tocTab[tocTab.length] = new Array("6.5.4", "1", "Business Layer", "EARoot/EA6/EA5/EA639.htm", "4.png", "", "", "{349D2CFD-6742-4918-9594-B1C562EEC096}", "Package");
+tocTab[tocTab.length] = new Array("6.5.5", "1", "Service Layer", "EARoot/EA6/EA5/EA640.htm", "4.png", "", "", "{6450020B-B1F2-4ebd-9836-95A69A56DA46}", "Package");
+tocTab[tocTab.length] = new Array("6.5.6", "1", "View Layer", "EARoot/EA6/EA5/EA641.htm", "4.png", "", "", "{6D5B33F9-82FC-462a-BDCF-5228FF996CD7}", "Package");

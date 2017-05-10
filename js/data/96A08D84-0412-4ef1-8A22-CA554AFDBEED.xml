@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("6.3.3:1", "", "Data Access Layer", "EARoot/EA6/EA3/EA3/EA538.htm", "175.png", "118", "0", "", "Logical diagram0","{3D0E0D4F-5A19-4e65-9B9C-387402D90F22}");
+tocTab[tocTab.length] = new Array("6.3.3:2", "", "«interface» IBiliographicUnitData", "EARoot/EA6/EA3/EA3/EA540.htm", "8.png", "668", "0", "", "Interface0","{16EE27F1-477C-4e1e-9315-7EFE030E8D86}");
+tocTab[tocTab.length] = new Array("6.3.3:3", "", "«interface» IInputBibliographicData", "EARoot/EA6/EA3/EA3/EA541.htm", "8.png", "669", "0", "", "Interface0","{F2743F07-B531-4280-93B7-60A1F5C65790}");
+tocTab[tocTab.length] = new Array("6.3.3:4", "", "«interface» IOutputBibliographicData", "EARoot/EA6/EA3/EA3/EA542.htm", "8.png", "670", "0", "", "Interface0","{BB1C931F-8929-4d2f-87EF-894665C53B0B}");

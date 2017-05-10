@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("7:1", "", "Digital Library Module Overview", "EARoot/EA7/EA675.htm", "176.png", "56", "0", "", "Package diagram0","{CA2D1E47-D606-4e73-AAAE-CC598CE665DD}");
+tocTab[tocTab.length] = new Array("7.1", "1", "Process Digital Library Module Overview", "EARoot/EA7/EA677.htm", "4.png", "", "", "{EE5884A1-E240-4260-BF2A-8B79E4BA87D1}", "Package");

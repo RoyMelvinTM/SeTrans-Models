@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("4.2.5.12:1", "", "Student", "EARoot/EA4/EA2/EA5/EA12/EA241.htm", "175.png", "129", "0", "", "Logical diagram0","{046199E1-A9FE-4717-9075-65CA91D9F9A6}");
+tocTab[tocTab.length] = new Array("4.2.5.12:2", "", "«interface» IStudentService", "EARoot/EA4/EA2/EA5/EA12/EA243.htm", "8.png", "696", "0", "", "Interface0","{29ACB53B-3E68-43b2-B1E4-A3F23EF0D4BE}");
+tocTab[tocTab.length] = new Array("4.2.5.12:3", "", "StudentService", "EARoot/EA4/EA2/EA5/EA12/EA244.htm", "5.png", "761", "0", "", "Class0","{470B1691-92A1-4b34-9003-CBDCE18BCA82}");

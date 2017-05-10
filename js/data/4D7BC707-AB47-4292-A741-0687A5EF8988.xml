@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("4.2.7.3:1", "", "Common View Layer Beans : UserLibrary", "EARoot/EA4/EA2/EA7/EA3/EA282.htm", "175.png", "205", "0", "", "Logical diagram0","{2FA26098-80C8-4fce-A2D7-1A4B49170415}");
+tocTab[tocTab.length] = new Array("4.2.7.3:2", "", "UserLibraryBean", "EARoot/EA4/EA2/EA7/EA3/EA284.htm", "5.png", "998", "0", "", "Class0","{BE6E938C-5F3E-4475-942E-A210764523D0}");

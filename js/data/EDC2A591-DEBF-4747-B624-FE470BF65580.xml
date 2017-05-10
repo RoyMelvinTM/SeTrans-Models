@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("4.2.5.9:1", "", "LegalEntity", "EARoot/EA4/EA2/EA5/EA9/EA229.htm", "175.png", "127", "0", "", "Logical diagram0","{FC7EFA29-6735-4134-98B7-D14D31C46435}");
+tocTab[tocTab.length] = new Array("4.2.5.9:2", "", "«interface» ILegalEntityService", "EARoot/EA4/EA2/EA5/EA9/EA231.htm", "8.png", "694", "0", "", "Interface0","{AAFD2370-9892-4f6a-8042-0885E82A193A}");
+tocTab[tocTab.length] = new Array("4.2.5.9:3", "", "LegalEntityService", "EARoot/EA4/EA2/EA5/EA9/EA232.htm", "5.png", "759", "0", "", "Class0","{28BAC547-8159-4cad-B28F-F6370ABCC5F7}");

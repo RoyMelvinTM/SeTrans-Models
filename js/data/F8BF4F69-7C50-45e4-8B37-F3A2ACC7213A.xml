@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("6.2.3:1", "", "Catalogacion: Data Access Layer", "EARoot/EA6/EA2/EA3/EA407.htm", "175.png", "44", "0", "", "Logical diagram0","{B8549FEF-5367-4519-AD86-8D169B7A9959}");
+tocTab[tocTab.length] = new Array("6.2.3:2", "", "«interface» IBibliographicCatalogData", "EARoot/EA6/EA2/EA3/EA410.htm", "8.png", "280", "0", "", "Interface0","{81F3C5FF-2058-437d-9441-29399F75905B}");
+tocTab[tocTab.length] = new Array("6.2.3:3", "", "«interface» IBookCategoryData", "EARoot/EA6/EA2/EA3/EA411.htm", "8.png", "982", "0", "", "Interface0","{EA81C62E-42F1-48af-BFF7-63A5D54F2B7D}");
+tocTab[tocTab.length] = new Array("6.2.3:4", "", "«interface» IBookData", "EARoot/EA6/EA2/EA3/EA412.htm", "8.png", "279", "0", "", "Interface0","{B5FC2835-0DB7-42e7-BAD6-E7737E343EDD}");
+tocTab[tocTab.length] = new Array("6.2.3:5", "", "«interface» ILocationData", "EARoot/EA6/EA2/EA3/EA413.htm", "8.png", "779", "0", "", "Interface0","{63B318EA-F98E-460b-AE5D-72C1B5C7590B}");
+tocTab[tocTab.length] = new Array("6.2.3:6", "", "«interface» IPeriodicalCategoryData", "EARoot/EA6/EA2/EA3/EA414.htm", "5.png", "282", "0", "", "Class0","{25727372-4466-48f2-A74B-2AED2245E354}");
+tocTab[tocTab.length] = new Array("6.2.3:7", "", "«interface» IPeriodicalData", "EARoot/EA6/EA2/EA3/EA415.htm", "8.png", "281", "0", "", "Interface0","{00F57FF8-CCC9-428f-8818-0049DE25E5CD}");
+tocTab[tocTab.length] = new Array("6.2.3:8", "", "«interface» IThesisCategoryData", "EARoot/EA6/EA2/EA3/EA416.htm", "8.png", "842", "0", "", "Interface0","{63A00F08-6E67-4c93-BC75-4025AA61F179}");
+tocTab[tocTab.length] = new Array("6.2.3:9", "", "«interface» IThesisData", "EARoot/EA6/EA2/EA3/EA417.htm", "5.png", "841", "0", "", "Class0","{8B86A85C-AA48-4930-BA94-83EF3CE417D6}");
+tocTab[tocTab.length] = new Array("6.2.3:10", "", "«interface» IBookCategoryData", "EARoot/EA6/EA2/EA3/EA418.htm", "8.png", "278", "281", "", "Interface0","{AA14BAE8-7C7E-466d-9272-750E5D41929D}");
+tocTab[tocTab.length] = new Array("6.2.3.1", "1", "Complete Example --- DAL", "EARoot/EA6/EA2/EA3/EA409.htm", "4.png", "", "", "{23D113A5-2730-4069-9E03-65307712BD88}", "Package");

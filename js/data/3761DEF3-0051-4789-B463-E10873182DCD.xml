@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("6:1", "", "Model Library", "EARoot/EA6/EA366.htm", "175.png", "4", "0", "", "Logical diagram0","{A5F5B38B-DFB0-4a0f-80C2-E7FABB591CC2}");
+tocTab[tocTab.length] = new Array("6.1", "1", "Library Menu", "EARoot/EA6/EA368.htm", "4.png", "", "", "{2F7EFA9D-15C2-4abe-897E-B53E72E7B46A}", "Package");
+tocTab[tocTab.length] = new Array("6.2", "1", "Catalogacion", "EARoot/EA6/EA369.htm", "4.png", "", "", "{52CCB887-94EF-45c5-A033-1EB4E5DF39B2}", "Package");
+tocTab[tocTab.length] = new Array("6.3", "1", "Adquisicion y Retiro", "EARoot/EA6/EA370.htm", "4.png", "", "", "{BB9523BA-7935-459f-B994-FBBECB46D084}", "Package");
+tocTab[tocTab.length] = new Array("6.4", "1", "Circulacion", "EARoot/EA6/EA371.htm", "4.png", "", "", "{FDC65CBF-7A89-4d09-A4D1-36D041FCA344}", "Package");
+tocTab[tocTab.length] = new Array("6.5", "1", "Busqueda y Reserva Online", "EARoot/EA6/EA372.htm", "4.png", "", "", "{DB24EFE7-7A19-4461-958E-EE95DB8A186F}", "Package");

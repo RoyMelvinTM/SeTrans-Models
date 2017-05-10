@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("6.3.1:1", "", "DDL", "EARoot/EA6/EA3/EA1/EA524.htm", "175.png", "195", "0", "", "Logical diagram0","{D462BF08-3957-4eaf-A1F4-41749743292F}");
+tocTab[tocTab.length] = new Array("6.3.1:2", "", "«table» BiliographicUnit", "EARoot/EA6/EA3/EA1/EA526.htm", "28.png", "951", "0", "", "Class0","{61102891-EFE9-4d2c-929A-7E02FC03B370}");
+tocTab[tocTab.length] = new Array("6.3.1:3", "", "«table» InputBibliographic", "EARoot/EA6/EA3/EA1/EA527.htm", "28.png", "952", "0", "", "Class0","{E882E301-66C0-4455-8A8E-A795F41B32F4}");
+tocTab[tocTab.length] = new Array("6.3.1:4", "", "«table» OutputBibliographic", "EARoot/EA6/EA3/EA1/EA528.htm", "28.png", "953", "0", "", "Class0","{F7B29420-BAD3-49d0-8EF1-F59CDE9470D8}");

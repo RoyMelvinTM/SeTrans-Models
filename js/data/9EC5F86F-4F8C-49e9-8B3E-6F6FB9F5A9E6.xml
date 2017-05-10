@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("6.3.4:1", "", "Business Layer", "EARoot/EA6/EA3/EA4/EA543.htm", "175.png", "140", "0", "", "Logical diagram0","{E5526D1E-2001-4fab-BC2D-88D010F532B8}");
+tocTab[tocTab.length] = new Array("6.3.4:2", "", "BiliographicUnitBusiness", "EARoot/EA6/EA3/EA4/EA545.htm", "5.png", "718", "0", "", "Class0","{ACF610F0-C6C9-4978-8E16-DD55B3910792}");
+tocTab[tocTab.length] = new Array("6.3.4:3", "", "InputBibliographicBusiness", "EARoot/EA6/EA3/EA4/EA546.htm", "5.png", "719", "0", "", "Class0","{CB3886AA-9673-4630-80F0-4E96955E129B}");
+tocTab[tocTab.length] = new Array("6.3.4:4", "", "OutputBibliographicBusiness", "EARoot/EA6/EA3/EA4/EA547.htm", "5.png", "720", "0", "", "Class0","{95091312-778B-4017-82D4-D8DB70B81BC6}");

@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("6.2.4:1", "", "Catalogacion: Business Layer", "EARoot/EA6/EA2/EA4/EA441.htm", "175.png", "45", "0", "", "Logical diagram0","{95F0F070-B754-45b9-BB4A-44C7A0A321BB}");
+tocTab[tocTab.length] = new Array("6.2.4:2", "", "BookBusiness", "EARoot/EA6/EA2/EA4/EA443.htm", "5.png", "285", "0", "", "Class0","{D15DDA45-F1D9-4aaf-9416-BF8BE35455CD}");
+tocTab[tocTab.length] = new Array("6.2.4:3", "", "BookCategoryBusiness", "EARoot/EA6/EA2/EA4/EA444.htm", "5.png", "284", "0", "", "Class0","{E4B52DFA-F1F2-44e4-AF7D-1D5A09B520CD}");
+tocTab[tocTab.length] = new Array("6.2.4:4", "", "LocationBusiness", "EARoot/EA6/EA2/EA4/EA445.htm", "5.png", "780", "0", "", "Class0","{6E24645D-6B6A-4e74-AC17-E8BE161C03AF}");
+tocTab[tocTab.length] = new Array("6.2.4:5", "", "PeriodicalBusiness", "EARoot/EA6/EA2/EA4/EA446.htm", "5.png", "585", "0", "", "Class0","{EF2572CD-581C-48aa-96A8-21D5AFA8E876}");
+tocTab[tocTab.length] = new Array("6.2.4:6", "", "PeriodicalCategoryBusiness", "EARoot/EA6/EA2/EA4/EA447.htm", "5.png", "586", "0", "", "Class0","{DDE1E63F-67DC-4149-801A-8827DB9F427B}");
+tocTab[tocTab.length] = new Array("6.2.4:7", "", "ThesisBusiness", "EARoot/EA6/EA2/EA4/EA448.htm", "5.png", "844", "0", "", "Class0","{367E54D3-75AE-4621-A6C5-D24EC082FAAF}");
+tocTab[tocTab.length] = new Array("6.2.4:8", "", "ThesisCategoryBusiness", "EARoot/EA6/EA2/EA4/EA449.htm", "5.png", "843", "0", "", "Class0","{BDF116BC-24EE-4bfd-B3CE-8617C0B1717B}");

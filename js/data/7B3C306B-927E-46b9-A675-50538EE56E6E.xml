@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("6.4.4:1", "", "Business Layer", "EARoot/EA6/EA4/EA4/EA603.htm", "175.png", "141", "0", "", "Logical diagram0","{E9A9E6A9-D08F-44a8-A503-AFDC7540BC95}");
+tocTab[tocTab.length] = new Array("6.4.4:2", "", "LoanBibliographicBusiness", "EARoot/EA6/EA4/EA4/EA605.htm", "5.png", "727", "0", "", "Class0","{D0E0DEE8-AAA1-443c-AEB5-9121B4AB835D}");
+tocTab[tocTab.length] = new Array("6.4.4:3", "", "ReturnBibliographicBusiness", "EARoot/EA6/EA4/EA4/EA606.htm", "5.png", "728", "0", "", "Class0","{32A3E72E-881F-4213-A656-50830B067255}");
+tocTab[tocTab.length] = new Array("6.4.4:4", "", "UserLibraryAccountStateBusiness", "EARoot/EA6/EA4/EA4/EA607.htm", "5.png", "730", "0", "", "Class0","{F4C88BD2-3E42-438b-BF56-F829DE70F121}");

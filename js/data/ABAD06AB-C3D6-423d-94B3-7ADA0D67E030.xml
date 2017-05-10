@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("6.2.5.5:1", "", "Catalogacion service: Book", "EARoot/EA6/EA2/EA5/EA5/EA474.htm", "175.png", "106", "0", "", "Logical diagram0","{FC1AA4F1-8AD0-44e6-B365-16810792E510}");
+tocTab[tocTab.length] = new Array("6.2.5.5:2", "", "BookService", "EARoot/EA6/EA2/EA5/EA5/EA476.htm", "5.png", "607", "0", "", "Class0","{DD236881-816B-45ce-9169-A1A2FAC0468E}");
+tocTab[tocTab.length] = new Array("6.2.5.5:3", "", "«interface» IBookService", "EARoot/EA6/EA2/EA5/EA5/EA477.htm", "8.png", "589", "0", "", "Interface0","{F178BA12-615D-4545-A2D0-61D821EA7BE6}");

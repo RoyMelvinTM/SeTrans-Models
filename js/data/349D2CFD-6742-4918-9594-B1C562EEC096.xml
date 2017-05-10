@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("6.5.4:1", "", "Business Layer", "EARoot/EA6/EA5/EA4/EA651.htm", "175.png", "142", "0", "", "Logical diagram0","{61564C88-A824-4ab8-8F14-CE470EA536DF}");
+tocTab[tocTab.length] = new Array("6.5.4:2", "", "ReserveCartBusiness", "EARoot/EA6/EA5/EA4/EA653.htm", "5.png", "739", "0", "", "Class0","{02A4D3B9-019B-4ac3-94AF-B8501AE4C72E}");

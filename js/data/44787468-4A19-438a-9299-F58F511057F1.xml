@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("4.2.5.11:1", "", "Common Service Layer: NaturalPerson", "EARoot/EA4/EA2/EA5/EA11/EA237.htm", "175.png", "128", "0", "", "Logical diagram0","{9B033301-6FFA-4ebb-B5B8-E6B7FC7F87DF}");
+tocTab[tocTab.length] = new Array("4.2.5.11:2", "", "«interface» INaturalPersonService", "EARoot/EA4/EA2/EA5/EA11/EA239.htm", "8.png", "695", "0", "", "Interface0","{C8172514-6109-4cb2-B864-0827650135FC}");
+tocTab[tocTab.length] = new Array("4.2.5.11:3", "", "NaturalPersonService", "EARoot/EA4/EA2/EA5/EA11/EA240.htm", "5.png", "760", "0", "", "Class0","{5E764759-31B7-416b-8065-F1EC0BBD51C4}");

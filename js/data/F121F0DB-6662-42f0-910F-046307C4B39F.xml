@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("6.5.5.2:1", "", "ReserveCart", "EARoot/EA6/EA5/EA5/EA2/EA662.htm", "175.png", "163", "0", "", "Logical diagram0","{02317B40-0265-4bc5-964C-19E039CB3745}");
+tocTab[tocTab.length] = new Array("6.5.5.2:2", "", "«interface» IReserveCartService", "EARoot/EA6/EA5/EA5/EA2/EA664.htm", "8.png", "752", "0", "", "Interface0","{9651BCD0-D04E-44e4-AB20-50D13007E165}");
+tocTab[tocTab.length] = new Array("6.5.5.2:3", "", "ReserveCartService", "EARoot/EA6/EA5/EA5/EA2/EA665.htm", "5.png", "770", "0", "", "Class0","{4C26D180-9FCD-4b6b-9767-366446D83946}");

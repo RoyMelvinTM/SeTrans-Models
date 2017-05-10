@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("6.3.2:1", "", "Entities", "EARoot/EA6/EA3/EA2/EA529.htm", "175.png", "41", "0", "", "Logical diagram0","{5F8E5191-947E-4fa7-B82B-FA6C7553A8A9}");
+tocTab[tocTab.length] = new Array("6.3.2:2", "", "BibliographicUnit", "EARoot/EA6/EA3/EA2/EA531.htm", "5.png", "268", "0", "", "Class0","{D2AD1279-B7FA-4210-8EDC-6C0AD3816506}");
+tocTab[tocTab.length] = new Array("6.3.2:3", "", "«enumeration» BibliographicUnitCondition", "EARoot/EA6/EA3/EA2/EA532.htm", "5.png", "300", "0", "", "Class0","{82AC7438-9E54-4b0c-AFC2-DED6B23B2612}");
+tocTab[tocTab.length] = new Array("6.3.2:4", "", "«enumeration» BibliographicUnitState", "EARoot/EA6/EA3/EA2/EA533.htm", "5.png", "298", "0", "", "Class0","{0945B1BA-3013-47e7-901A-072CCC3F8065}");
+tocTab[tocTab.length] = new Array("6.3.2:5", "", "InputBibliographic", "EARoot/EA6/EA3/EA2/EA534.htm", "5.png", "263", "0", "", "Class0","{55EA14EE-12F6-45ef-B469-453FA665F007}");
+tocTab[tocTab.length] = new Array("6.3.2:6", "", "«enumeration» InputBibliographicType", "EARoot/EA6/EA3/EA2/EA535.htm", "5.png", "299", "0", "", "Class0","{07922A25-AF13-40b7-B10A-CFCDC2C74A57}");
+tocTab[tocTab.length] = new Array("6.3.2:7", "", "OutputBibliographic", "EARoot/EA6/EA3/EA2/EA536.htm", "5.png", "264", "0", "", "Class0","{C25BDA36-F881-45d4-941B-40DA44326793}");
+tocTab[tocTab.length] = new Array("6.3.2:8", "", "«enumeration» OutputBibliographicType", "EARoot/EA6/EA3/EA2/EA537.htm", "5.png", "302", "0", "", "Class0","{AC9CA820-F7DC-40a4-AEA1-3C3840AEFD0B}");

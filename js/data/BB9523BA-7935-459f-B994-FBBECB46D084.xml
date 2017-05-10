@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("6.3:1", "", "Adquisicion", "EARoot/EA6/EA3/EA516.htm", "175.png", "13", "0", "", "Logical diagram0","{DB8A0E3A-C308-4f15-A31B-6FEACB0C6A13}");
+tocTab[tocTab.length] = new Array("6.3.1", "1", "DDL", "EARoot/EA6/EA3/EA518.htm", "4.png", "", "", "{28DACB18-C6B9-4bce-9246-32A10EAB5B9D}", "Package");
+tocTab[tocTab.length] = new Array("6.3.2", "1", "Entities", "EARoot/EA6/EA3/EA519.htm", "4.png", "", "", "{3214F34A-19EC-4d7d-A3E8-862529F45205}", "Package");
+tocTab[tocTab.length] = new Array("6.3.3", "1", "Data Access Layer", "EARoot/EA6/EA3/EA520.htm", "4.png", "", "", "{96A08D84-0412-4ef1-8A22-CA554AFDBEED}", "Package");
+tocTab[tocTab.length] = new Array("6.3.4", "1", "Business Layer", "EARoot/EA6/EA3/EA521.htm", "4.png", "", "", "{9EC5F86F-4F8C-49e9-8B3E-6F6FB9F5A9E6}", "Package");
+tocTab[tocTab.length] = new Array("6.3.5", "1", "Service Layer", "EARoot/EA6/EA3/EA522.htm", "4.png", "", "", "{E2974E10-EA14-41f6-8B1D-3D9AD3A88830}", "Package");
+tocTab[tocTab.length] = new Array("6.3.6", "1", "View Layer", "EARoot/EA6/EA3/EA523.htm", "4.png", "", "", "{97AF70B1-8F18-4542-90AA-CA281375CF8A}", "Package");

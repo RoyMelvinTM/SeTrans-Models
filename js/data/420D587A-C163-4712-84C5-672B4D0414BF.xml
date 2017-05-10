@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("4:1", "", "Model common", "EARoot/EA4/EA43.htm", "176.png", "58", "0", "", "Package diagram0","{FB491C2F-FB25-48cb-BCE9-F83450FEA767}");
+tocTab[tocTab.length] = new Array("4.1", "1", "Configuration Menu", "EARoot/EA4/EA45.htm", "4.png", "", "", "{BD21BF05-9DD1-40ac-A119-FBC796379474}", "Package");
+tocTab[tocTab.length] = new Array("4.2", "1", "Common Classes", "EARoot/EA4/EA46.htm", "4.png", "", "", "{5AFDB618-98B4-4f0a-8C6E-6EF8D081F06C}", "Package");
+tocTab[tocTab.length] = new Array("4.3", "1", "Configuration Access Control", "EARoot/EA4/EA47.htm", "4.png", "", "", "{A74CDCE7-165B-4fdf-B725-DFA78331AB09}", "Package");

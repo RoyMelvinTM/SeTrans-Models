@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("6.4.5:1", "", "Service Layer", "EARoot/EA6/EA4/EA5/EA608.htm", "175.png", "144", "0", "", "Logical diagram0","{47EA65BB-A337-436c-B1EE-B7C30E3A2DC5}");
+tocTab[tocTab.length] = new Array("6.4.5.1", "1", "LoanBibliographic", "EARoot/EA6/EA4/EA5/EA610.htm", "4.png", "", "", "{F92F4DDB-7268-459b-864F-78FBB5E72F26}", "Package");
+tocTab[tocTab.length] = new Array("6.4.5.2", "1", "ReturnBibliographic", "EARoot/EA6/EA4/EA5/EA611.htm", "4.png", "", "", "{92E3936D-63C1-489f-A3DC-027498318498}", "Package");
+tocTab[tocTab.length] = new Array("6.4.5.3", "1", "UserLibraryAccountState", "EARoot/EA6/EA4/EA5/EA612.htm", "4.png", "", "", "{76AE5B93-B32A-4aa6-A6C2-2F3DC4DFA5CC}", "Package");

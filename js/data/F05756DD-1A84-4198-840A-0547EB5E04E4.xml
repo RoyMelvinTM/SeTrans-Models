@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("4.2.3.1:1", "", "Complete Example --- DAL", "EARoot/EA4/EA2/EA3/EA1/EA120.htm", "175.png", "214", "0", "", "Logical diagram0","{63E9864B-FF49-42f8-9307-6E0E5714FA0D}");
+tocTab[tocTab.length] = new Array("4.2.3.1:2", "", "«interface» Autowired", "EARoot/EA4/EA2/EA3/EA1/EA122.htm", "8.png", "1049", "0", "", "Interface0","{4E9AC312-ECB4-4c40-AFD8-DCC73AFDF030}");
+tocTab[tocTab.length] = new Array("4.2.3.1:3", "", "DataAccess", "EARoot/EA4/EA2/EA3/EA1/EA123.htm", "5.png", "1052", "0", "", "Class0","{FD671FD1-612C-41b3-90E0-53DAA30D8A8D}");
+tocTab[tocTab.length] = new Array("4.2.3.1:4", "", "EntityGuidBase", "EARoot/EA4/EA2/EA3/EA1/EA124.htm", "5.png", "1053", "0", "", "Class0","{E3F7AAEA-405B-4152-819B-138B55D1496D}");
+tocTab[tocTab.length] = new Array("4.2.3.1:5", "", "HibernateSession", "EARoot/EA4/EA2/EA3/EA1/EA125.htm", "5.png", "1054", "0", "", "Class0","{CC7D4D99-5D96-47e8-A758-B97CE70AFAD8}");
+tocTab[tocTab.length] = new Array("4.2.3.1:6", "", "«interface» IDataAccess", "EARoot/EA4/EA2/EA3/EA1/EA126.htm", "8.png", "1055", "0", "", "Interface0","{7AA8ADD3-F144-4d23-B95A-4EBE832566C3}");
+tocTab[tocTab.length] = new Array("4.2.3.1:7", "", "«interface» IDataTransaction", "EARoot/EA4/EA2/EA3/EA1/EA127.htm", "8.png", "1056", "0", "", "Interface0","{4FDE5BB0-746A-4ac1-A9A9-A4CE3F423287}");
+tocTab[tocTab.length] = new Array("4.2.3.1:8", "", "MaritalStatusData", "EARoot/EA4/EA2/EA3/EA1/EA128.htm", "5.png", "1065", "0", "", "Class0","{37ED8C85-8144-42a4-BDB8-6A7393C49232}");
+tocTab[tocTab.length] = new Array("4.2.3.1:9", "", "MaritalStatusDataTest", "EARoot/EA4/EA2/EA3/EA1/EA129.htm", "5.png", "1051", "0", "", "Class0","{CFA1FC07-35B9-4251-962B-85BC5DAB2A60}");
+tocTab[tocTab.length] = new Array("4.2.3.1:10", "", "«interface» Repository", "EARoot/EA4/EA2/EA3/EA1/EA133.htm", "8.png", "1057", "0", "", "Interface0","{AF8E335B-140E-4d96-99AF-9DDB0CA714BF}");
+tocTab[tocTab.length] = new Array("4.2.3.1:11", "", "«interface» Transactional", "EARoot/EA4/EA2/EA3/EA1/EA135.htm", "8.png", "1058", "0", "", "Interface0","{B3FA3A3C-E900-4a93-BBE7-9F74E0D2C6D6}");

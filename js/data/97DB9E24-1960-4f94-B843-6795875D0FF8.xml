@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("4.2.7.2:1", "", "Common View Layer Beans : NaturalPerson", "EARoot/EA4/EA2/EA7/EA2/EA279.htm", "175.png", "204", "0", "", "Logical diagram0","{C82E3F35-25AD-424d-9BA2-C42E9940C965}");
+tocTab[tocTab.length] = new Array("4.2.7.2:2", "", "NaturalPersonBean", "EARoot/EA4/EA2/EA7/EA2/EA281.htm", "5.png", "997", "0", "", "Class0","{260ECE34-140E-46b4-BBFB-A06833B20665}");

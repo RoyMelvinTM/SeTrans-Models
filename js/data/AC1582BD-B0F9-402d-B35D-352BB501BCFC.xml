@@ -1,0 +1,16 @@
+tocTab[tocTab.length] = new Array("4.2.3:1", "", "Common Data Access Layer", "EARoot/EA4/EA2/EA3/EA103.htm", "175.png", "8", "0", "", "Logical diagram0","{E77998BB-9738-473e-92BA-9FDED4343C62}");
+tocTab[tocTab.length] = new Array("4.2.3:2", "", "«interface» IAcademicLevelData", "EARoot/EA4/EA2/EA3/EA106.htm", "8.png", "646", "0", "", "Interface0","{5B4258D5-4C35-4413-B59C-6C205B3E6C6D}");
+tocTab[tocTab.length] = new Array("4.2.3:3", "", "«interface» IAcademicUnitData", "EARoot/EA4/EA2/EA3/EA107.htm", "8.png", "647", "0", "", "Interface0","{D0C33BD6-213B-4e82-B2E8-B764DC96B96D}");
+tocTab[tocTab.length] = new Array("4.2.3:4", "", "«interface» ICampusData", "EARoot/EA4/EA2/EA3/EA108.htm", "8.png", "648", "0", "", "Interface0","{0F513F89-B602-4f3c-9097-928236DD0C5E}");
+tocTab[tocTab.length] = new Array("4.2.3:5", "", "«interface» ICourseData", "EARoot/EA4/EA2/EA3/EA109.htm", "8.png", "649", "0", "", "Interface0","{9EF422A1-FBA0-4154-8076-B67382750A4D}");
+tocTab[tocTab.length] = new Array("4.2.3:6", "", "«interface» IDepartmentData", "EARoot/EA4/EA2/EA3/EA110.htm", "8.png", "650", "0", "", "Interface0","{EE746470-8340-4d81-81C8-F9E0C23CF698}");
+tocTab[tocTab.length] = new Array("4.2.3:7", "", "«interface» IEducationalEntityData", "EARoot/EA4/EA2/EA3/EA111.htm", "8.png", "651", "0", "", "Interface0","{0B01341A-491D-48bc-89A0-485F519A9300}");
+tocTab[tocTab.length] = new Array("4.2.3:8", "", "«interface» IEmployeeData", "EARoot/EA4/EA2/EA3/EA112.htm", "8.png", "652", "0", "", "Interface0","{7397D49E-962D-417d-A6C1-9A243BDB24EA}");
+tocTab[tocTab.length] = new Array("4.2.3:9", "", "«interface» ILegalEntityData", "EARoot/EA4/EA2/EA3/EA113.htm", "8.png", "653", "0", "", "Interface0","{9A832E95-71F4-4600-9746-88CE068E4840}");
+tocTab[tocTab.length] = new Array("4.2.3:10", "", "«interface» ILibraryData", "EARoot/EA4/EA2/EA3/EA114.htm", "8.png", "964", "0", "", "Interface0","{5CF8767D-CEB4-4b4a-84C2-63AC897CEF71}");
+tocTab[tocTab.length] = new Array("4.2.3:11", "", "«interface» IMaritalStatusData", "EARoot/EA4/EA2/EA3/EA115.htm", "8.png", "985", "0", "", "Interface0","{DC770D20-E962-4024-A597-B839124EBD78}");
+tocTab[tocTab.length] = new Array("4.2.3:12", "", "«interface» INaturalPersonData", "EARoot/EA4/EA2/EA3/EA116.htm", "8.png", "654", "0", "", "Interface0","{679391B2-9231-4c71-994D-07BE7211E6AC}");
+tocTab[tocTab.length] = new Array("4.2.3:13", "", "«interface» IStudentData", "EARoot/EA4/EA2/EA3/EA117.htm", "8.png", "655", "0", "", "Interface0","{CA2EB299-AB6C-4554-B8C7-A2E98B0AB338}");
+tocTab[tocTab.length] = new Array("4.2.3:14", "", "«interface» IUserLibraryAllocationData", "EARoot/EA4/EA2/EA3/EA118.htm", "8.png", "970", "0", "", "Interface0","{1F2C9A38-1472-48de-A0F2-BEBFC1424FBC}");
+tocTab[tocTab.length] = new Array("4.2.3:15", "", "«interface» IUserLibraryData", "EARoot/EA4/EA2/EA3/EA119.htm", "8.png", "673", "0", "", "Interface0","{77D8BF55-A322-467c-9FDE-FB1CDBFE0040}");
+tocTab[tocTab.length] = new Array("4.2.3.1", "1", "Complete Example --- DAL", "EARoot/EA4/EA2/EA3/EA105.htm", "4.png", "", "", "{F05756DD-1A84-4198-840A-0547EB5E04E4}", "Package");

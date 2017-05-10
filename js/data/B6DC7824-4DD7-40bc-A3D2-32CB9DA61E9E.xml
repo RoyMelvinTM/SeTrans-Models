@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("6.2.5.3:1", "", "Thesis", "EARoot/EA6/EA2/EA5/EA3/EA466.htm", "175.png", "181", "0", "", "Logical diagram0","{7300B9FA-4FF0-4dbd-B9DF-8E827B233AEF}");
+tocTab[tocTab.length] = new Array("6.2.5.3:2", "", "«interface» IThesisService", "EARoot/EA6/EA2/EA5/EA3/EA468.htm", "8.png", "848", "0", "", "Interface0","{EC9C2054-E3CF-403e-871F-9E09D4622C48}");
+tocTab[tocTab.length] = new Array("6.2.5.3:3", "", "ThesisService", "EARoot/EA6/EA2/EA5/EA3/EA469.htm", "5.png", "1117", "0", "", "Class0","{60A471E1-004A-4545-9F31-10295922C3F8}");

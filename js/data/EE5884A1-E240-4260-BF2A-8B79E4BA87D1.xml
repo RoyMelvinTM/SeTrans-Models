@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("7.1:1", "", "Process Digital Library Module Overview", "EARoot/EA7/EA1/EA678.htm", "181.png", "57", "0", "", "Activity diagram0","{D2EAEDAB-A9BE-4b01-B56F-565C61416CC7}");
+tocTab[tocTab.length] = new Array("7.1:2", "", "Búsqueda y Descarga Virtual", "EARoot/EA7/EA1/EA680.htm", "21.png", "320", "0", "", "Activity0","{7D19C4B3-D52D-4283-8B68-198051B9853E}");
+tocTab[tocTab.length] = new Array("7.1:3", "", "Final", "EARoot/EA7/EA1/EA681.htm", "69.png", "318", "0", "", "StateNode0","{ADDFF0EC-F326-4298-8658-C20579EA4CEB}");
+tocTab[tocTab.length] = new Array("7.1:4", "", "Inicio", "EARoot/EA7/EA1/EA682.htm", "68.png", "317", "0", "", "StateNode0","{ED261100-8178-478c-9530-1A3879C4C29B}");
+tocTab[tocTab.length] = new Array("7.1:5", "", "Registracion y Catalogacion", "EARoot/EA7/EA1/EA683.htm", "21.png", "319", "0", "", "Activity0","{51FF01B2-2E6D-47a1-8791-5FD3FF420127}");

@@ -1,0 +1,16 @@
+tocTab[tocTab.length] = new Array("4.2.4:1", "", "Common Business Layer", "EARoot/EA4/EA2/EA4/EA136.htm", "175.png", "9", "0", "", "Logical diagram0","{BDE7B885-6599-4bbe-9004-A1F6E6F76A94}");
+tocTab[tocTab.length] = new Array("4.2.4:2", "", "AcademicLevelBusiness", "EARoot/EA4/EA2/EA4/EA139.htm", "5.png", "656", "0", "", "Class0","{AECBA588-DD33-4de2-9914-9B7524249F2A}");
+tocTab[tocTab.length] = new Array("4.2.4:3", "", "AcademicUnitBusiness", "EARoot/EA4/EA2/EA4/EA140.htm", "5.png", "657", "0", "", "Class0","{2BB81CFC-F0DD-4a4f-A3CC-9F699D2C5614}");
+tocTab[tocTab.length] = new Array("4.2.4:4", "", "CampusBusiness", "EARoot/EA4/EA2/EA4/EA141.htm", "5.png", "658", "0", "", "Class0","{02C80B4D-459D-4fbe-A0A0-EC5D54D93954}");
+tocTab[tocTab.length] = new Array("4.2.4:5", "", "CourseBusiness", "EARoot/EA4/EA2/EA4/EA143.htm", "5.png", "659", "0", "", "Class0","{14E24922-A371-42d2-BFB7-CFF929C96086}");
+tocTab[tocTab.length] = new Array("4.2.4:6", "", "DepartmentBusiness", "EARoot/EA4/EA2/EA4/EA144.htm", "5.png", "660", "0", "", "Class0","{903CB761-5790-4bc0-AF31-488BDA201D4A}");
+tocTab[tocTab.length] = new Array("4.2.4:7", "", "EducationalEntityBusiness", "EARoot/EA4/EA2/EA4/EA145.htm", "5.png", "661", "0", "", "Class0","{B2961C7D-AB41-4afd-A78B-5E277C418C94}");
+tocTab[tocTab.length] = new Array("4.2.4:8", "", "EmployeeBusiness", "EARoot/EA4/EA2/EA4/EA146.htm", "5.png", "662", "0", "", "Class0","{FB0A187B-E7D8-479f-BFF6-D2976BB0BE29}");
+tocTab[tocTab.length] = new Array("4.2.4:9", "", "LegalEntityBusiness", "EARoot/EA4/EA2/EA4/EA147.htm", "5.png", "663", "0", "", "Class0","{CCD1BC38-0F30-4f67-90AB-9278895AF51F}");
+tocTab[tocTab.length] = new Array("4.2.4:10", "", "LibraryBusiness", "EARoot/EA4/EA2/EA4/EA148.htm", "5.png", "976", "0", "", "Class0","{4401B660-0598-4d3a-90DA-791BEF3DB84F}");
+tocTab[tocTab.length] = new Array("4.2.4:11", "", "MaritalStatusBusiness", "EARoot/EA4/EA2/EA4/EA149.htm", "5.png", "986", "0", "", "Class0","{B5A8EB71-A2CB-447b-8100-5719063E54DD}");
+tocTab[tocTab.length] = new Array("4.2.4:12", "", "NaturalPersonBusiness", "EARoot/EA4/EA2/EA4/EA150.htm", "5.png", "664", "0", "", "Class0","{DFF3E3A0-C82D-44bd-AB85-1A3D79329A80}");
+tocTab[tocTab.length] = new Array("4.2.4:13", "", "StudentBusiness", "EARoot/EA4/EA2/EA4/EA151.htm", "5.png", "665", "0", "", "Class0","{633E103C-A04D-42f3-BFAC-C35F33F680F7}");
+tocTab[tocTab.length] = new Array("4.2.4:14", "", "UserLibraryAllocationBusiness", "EARoot/EA4/EA2/EA4/EA152.htm", "5.png", "1116", "0", "", "Class0","{C62C3C53-6F4A-4406-8B10-4D35CA1602B3}");
+tocTab[tocTab.length] = new Array("4.2.4:15", "", "UserLibraryBusiness", "EARoot/EA4/EA2/EA4/EA153.htm", "5.png", "729", "0", "", "Class0","{5E18FD3E-6819-485c-989E-23E50FE95386}");
+tocTab[tocTab.length] = new Array("4.2.4.1", "1", "Complete Example --- BL", "EARoot/EA4/EA2/EA4/EA142.htm", "4.png", "", "", "{F41FD237-4B0E-4cb9-A19D-7DB130AE4183}", "Package");

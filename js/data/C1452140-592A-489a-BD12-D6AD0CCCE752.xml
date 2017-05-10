@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("8:1", "", "Model to Biblioteca Digital", "EARoot/EA8/EA684.htm", "175.png", "52", "0", "", "Logical diagram0","{1F792B9C-B5BC-450f-B975-D765A24D2EEC}");
+tocTab[tocTab.length] = new Array("8.1", "1", "Catalogacion", "EARoot/EA8/EA686.htm", "4.png", "", "", "{5BEC6087-EAF9-4160-946E-0D489BE11B8C}", "Package");
+tocTab[tocTab.length] = new Array("8.2", "1", "Busqueda y Descarga Online", "EARoot/EA8/EA687.htm", "4.png", "", "", "{648CE4B1-3C9E-4f54-A0AF-30CC5184E3DA}", "Package");

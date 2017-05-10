@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("4.3:1", "", "Configuration Access Control", "EARoot/EA4/EA3/EA318.htm", "175.png", "17", "0", "", "Logical diagram0","{A6DF6C49-470B-487b-A037-0C5BC2B6B075}");
+tocTab[tocTab.length] = new Array("4.3.1", "1", "Data Access Layer", "EARoot/EA4/EA3/EA320.htm", "4.png", "", "", "{8B27F7C5-6DF3-4147-8F1B-19BD6E0323CF}", "Package");
+tocTab[tocTab.length] = new Array("4.3.2", "1", "DDL", "EARoot/EA4/EA3/EA321.htm", "4.png", "", "", "{E7AAF264-F4E6-49a9-8BBB-EF68C26F6EAD}", "Package");
+tocTab[tocTab.length] = new Array("4.3.3", "1", "Entities", "EARoot/EA4/EA3/EA322.htm", "4.png", "", "", "{CF7A1274-F4F3-459b-9421-66278189F78C}", "Package");
+tocTab[tocTab.length] = new Array("4.3.4", "1", "View Layer", "EARoot/EA4/EA3/EA323.htm", "4.png", "", "", "{9A4261BE-5A9F-41ed-AA6D-0ECAFDF624A1}", "Package");

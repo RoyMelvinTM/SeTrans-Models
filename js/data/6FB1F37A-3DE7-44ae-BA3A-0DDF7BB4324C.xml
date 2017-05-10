@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("4.2.5.13:1", "", "Common Service Layer: UserLibrary", "EARoot/EA4/EA2/EA5/EA13/EA245.htm", "175.png", "157", "0", "", "Logical diagram0","{99C2E181-B719-4179-A8B6-10C22FD34F5D}");
+tocTab[tocTab.length] = new Array("4.2.5.13:2", "", "«interface» IUserLibraryService", "EARoot/EA4/EA2/EA5/EA13/EA247.htm", "8.png", "750", "0", "", "Interface0","{322A7916-AD69-4068-815D-4161697461FC}");
+tocTab[tocTab.length] = new Array("4.2.5.13:3", "", "UserLibraryService", "EARoot/EA4/EA2/EA5/EA13/EA248.htm", "5.png", "768", "0", "", "Class0","{50C42B55-00AE-4b0d-89CD-6B580F5FD6FB}");

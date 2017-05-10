@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("4.2.8:1", "", "Common View Layer", "EARoot/EA4/EA2/EA8/EA285.htm", "176.png", "11", "0", "", "Package diagram0","{C3AA75B8-FE8E-49f8-8EEC-B5DDD2DEDE09}");
+tocTab[tocTab.length] = new Array("4.2.8.1", "1", "Department", "EARoot/EA4/EA2/EA8/EA287.htm", "4.png", "", "", "{607ACF79-5283-448f-B421-1ED62A8B23AB}", "Package");
+tocTab[tocTab.length] = new Array("4.2.8.2", "1", "EducationalEntityManagement", "EARoot/EA4/EA2/EA8/EA288.htm", "4.png", "", "", "{AF2C1F63-FAE9-44cf-8DBE-FE044E56B228}", "Package");
+tocTab[tocTab.length] = new Array("4.2.8.3", "1", "Employee", "EARoot/EA4/EA2/EA8/EA289.htm", "4.png", "", "", "{BFC3B53C-624F-4284-9F29-3BE33905E987}", "Package");
+tocTab[tocTab.length] = new Array("4.2.8.4", "1", "LegalEntity", "EARoot/EA4/EA2/EA8/EA290.htm", "4.png", "", "", "{575BA7A1-F9F7-49d6-B68A-C976B28937E1}", "Package");
+tocTab[tocTab.length] = new Array("4.2.8.5", "1", "MaritalStatus", "EARoot/EA4/EA2/EA8/EA291.htm", "4.png", "", "", "{A03BA0E2-77D7-4126-B541-1A62E86CD714}", "Package");
+tocTab[tocTab.length] = new Array("4.2.8.6", "1", "NaturalPerson", "EARoot/EA4/EA2/EA8/EA292.htm", "4.png", "", "", "{406D9504-F78A-4275-A07A-E260DEE0CA84}", "Package");
+tocTab[tocTab.length] = new Array("4.2.8.7", "1", "Student", "EARoot/EA4/EA2/EA8/EA293.htm", "4.png", "", "", "{4B5E366A-24C1-47f1-9A62-874C757E1AAE}", "Package");
+tocTab[tocTab.length] = new Array("4.2.8.8", "1", "UserLibrary", "EARoot/EA4/EA2/EA8/EA294.htm", "4.png", "", "", "{419B3896-4492-4699-8684-53004F2771FF}", "Package");

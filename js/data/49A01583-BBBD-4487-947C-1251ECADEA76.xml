@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("4.2.5.10:1", "", "Common Service Layer: MaritalStatus", "EARoot/EA4/EA2/EA5/EA10/EA233.htm", "175.png", "201", "0", "", "Logical diagram0","{AE4F70AF-5D11-426e-891C-B66620E358AF}");
+tocTab[tocTab.length] = new Array("4.2.5.10:2", "", "«interface» IMaritalStatusService", "EARoot/EA4/EA2/EA5/EA10/EA235.htm", "8.png", "988", "0", "", "Interface0","{C742251D-B24C-4fbc-9532-15C8FDD77E6E}");
+tocTab[tocTab.length] = new Array("4.2.5.10:3", "", "MaritalStatusService", "EARoot/EA4/EA2/EA5/EA10/EA236.htm", "5.png", "989", "0", "", "Class0","{C6BFFBD9-50EB-4c83-BCF4-6D04ADF511B7}");

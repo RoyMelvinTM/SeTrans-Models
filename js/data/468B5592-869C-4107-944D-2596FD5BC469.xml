@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("6.4.1:1", "", "DDL", "EARoot/EA6/EA4/EA1/EA587.htm", "175.png", "197", "0", "", "Logical diagram0","{69FD617A-AE08-42bc-80E6-B1A54AEA6E0F}");
+tocTab[tocTab.length] = new Array("6.4.1:2", "", "«table» LoanBibliographic", "EARoot/EA6/EA4/EA1/EA589.htm", "28.png", "959", "0", "", "Class0","{92EC68BA-E4D1-42cc-9C05-BCD2E2DB6BBA}");
+tocTab[tocTab.length] = new Array("6.4.1:3", "", "«table» ReturnBibliographic", "EARoot/EA6/EA4/EA1/EA590.htm", "28.png", "960", "0", "", "Class0","{B3424DF6-C3CB-4237-876C-224D03A5C326}");
+tocTab[tocTab.length] = new Array("6.4.1:4", "", "«table» UserLibraryAccountState", "EARoot/EA6/EA4/EA1/EA591.htm", "28.png", "961", "0", "", "Class0","{79EE4D55-0252-4024-BA33-0129FBBE0A51}");

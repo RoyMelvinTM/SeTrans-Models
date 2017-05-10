@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("4.2.7:1", "", "Common View Layer Beans (Caso Jsf)", "EARoot/EA4/EA2/EA7/EA271.htm", "175.png", "200", "0", "", "Logical diagram0","{E381B4E2-CCED-4259-A242-94DD7F800BBA}");
+tocTab[tocTab.length] = new Array("4.2.7.1", "1", "MaritalStatus", "EARoot/EA4/EA2/EA7/EA273.htm", "4.png", "", "", "{06CA4E78-73AC-47d9-B2AA-E24164727C73}", "Package");
+tocTab[tocTab.length] = new Array("4.2.7.2", "1", "NaturalPerson", "EARoot/EA4/EA2/EA7/EA274.htm", "4.png", "", "", "{97DB9E24-1960-4f94-B843-6795875D0FF8}", "Package");
+tocTab[tocTab.length] = new Array("4.2.7.3", "1", "UserLibrary", "EARoot/EA4/EA2/EA7/EA275.htm", "4.png", "", "", "{4D7BC707-AB47-4292-A741-0687A5EF8988}", "Package");

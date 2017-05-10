@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("4.3.2:1", "", "DDL", "EARoot/EA4/EA3/EA2/EA330.htm", "175.png", "193", "0", "", "Logical diagram0","{BB238699-1BDD-4cb0-958E-7C1B9FCFAB62}");
+tocTab[tocTab.length] = new Array("4.3.2:2", "", "«table» DataAccessLibrary", "EARoot/EA4/EA3/EA2/EA332.htm", "28.png", "942", "0", "", "Class0","{91478279-E71E-4738-B819-78B4289D67EA}");
+tocTab[tocTab.length] = new Array("4.3.2:3", "", "«table» Grouping", "EARoot/EA4/EA3/EA2/EA333.htm", "28.png", "943", "0", "", "Class0","{6FD977B9-1E86-4f7e-8456-28784A3904AD}");
+tocTab[tocTab.length] = new Array("4.3.2:4", "", "«table» ModuleAccess", "EARoot/EA4/EA3/EA2/EA334.htm", "28.png", "944", "0", "", "Class0","{A9E7B3D5-5290-4f42-9A67-7E8242F1AAFB}");
+tocTab[tocTab.length] = new Array("4.3.2:5", "", "«table» User", "EARoot/EA4/EA3/EA2/EA335.htm", "28.png", "945", "0", "", "Class0","{20C96E8E-8CDF-4765-A7F2-C581CDB0F9D8}");
